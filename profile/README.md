@@ -4,7 +4,7 @@ This is a page that contains all projects related to the APE framework, such as:
 
 - [APE library](https://github.com/sanctuuary/APE): the java implementation of the automated explorer (provided as Java API and CLI)
 - [APE Web Interface](https://github.com/sanctuuary/APE-Web): the web interface built on top of APE API
-- [APE Web Interface](https://github.com/sanctuuary/APE_UseCases): the matherials used for APE exploration in various case studies 
+- [APE Use Cases](https://github.com/sanctuuary/APE_UseCases): the data used for APE exploration in various case studies 
 - [APE documentation](https://github.com/sanctuuary/APE_readthedocs): the documentaion that covers the APE library and the related projects
 
 APE is a command line tool and Java API for the automated exploration of possible computational pipelines (scientific workflows) from large collections of computational tools. 
