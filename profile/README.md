@@ -6,7 +6,7 @@ This is a page that contains all projects related to the APE framework, such as:
 - [RESTful APE](https://github.com/sanctuuary/restape): RESTful API for the APE library
 - [APE Web Interface](https://github.com/workflomics/APE-Web): the web interface built on top of APE API
 - [APE Use Cases](https://github.com/sanctuuary/APE_UseCases): the data used for APE exploration in various case studies 
-- [APE documentation](https://github.com/sanctuuary/APE_readthedocs): the documentation that covers the APE library and the related projects
+- [APE documentation](https://github.com/workflomics/ape_readthedocs): the documentation that covers the APE library and the related projects
 
 APE is a library available as a command line tool, Java API and RESTful API for the automated exploration of possible computational pipelines (scientific workflows) from large collections of computational tools. 
 
